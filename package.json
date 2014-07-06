@@ -8,7 +8,9 @@
   },
   "devDependencies": {
     "gulp": "*",
-    "gulp-jasmine": "*"
+    "gulp-jasmine": "*",
+    "gulp-jshint": "*",
+    "jshint-stylish": "*"
   },
   "author": "gasp",
   "license": "BSD-2-Clause"
